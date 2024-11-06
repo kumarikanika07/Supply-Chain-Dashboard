@@ -26,8 +26,11 @@ Supply chain dashboard using Microsoft Power BI, DAX, Power query and Data model
 3. Use weekending for displaying weekly data by selecting the starting day of the week.
 4. Use Visualization for charts and filters for the filter dashboard
 
+
 ## Information in this Supply chain dashboard
 1. First visualization is a clustered column chart that displays Order Amount and Shipped amount every week.
 2. Second visualization displays Average sales per week per country for every country.
 3. Third visualization is a matrix that displays Order amount and Shipped amount.
 
+
+![image](https://github.com/kumarikanika07/Supply-Chain-Dashboard/blob/main/Supply%20chain%20dashboard.png)
