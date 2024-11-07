@@ -18,7 +18,7 @@ Supply chain dashboard using Microsoft Power BI, DAX, Power query and Data model
 
 ## Exploring and Manipulate Some Data Using DAX Query
 1. With DAX Query, we can effectively manipulate and analyze the data to provide insights for visualization and identify areas for improvement for Supply chain process.
-2. Create Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide and Date-time function for exploring some clean data for improve dashboard KPI in PowerBI.
+2. Create Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide and Date-time function for exploring some clean data to improve dashboard KPI in PowerBI.
 
 ## Power BI Dashboard Visualization
 1. Design the dashboard layout
@@ -30,7 +30,7 @@ Supply chain dashboard using Microsoft Power BI, DAX, Power query and Data model
 ## Information in this Supply chain dashboard
 1. First visualization is a clustered column chart that displays Order Amount and Shipped amount every week.
 2. Second visualization displays Average sales per week per country for every country.
-3. Third visualization is a matrix that displays Order amount and Shipped amount.
+3. Third visualization is a matrix that displays Order amount and Shipped amount yearly and monthly.
 
 
 ![image](https://github.com/kumarikanika07/Supply-Chain-Dashboard/blob/main/Supply%20chain%20dashboard.png)
